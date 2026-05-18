@@ -30,6 +30,4 @@ Methods include:
 ```text
 scripts/      MATLAB analysis scripts
 functions/    Custom clustering/helper functions
-data/         Raw and processed data
 results/      Figures and output tables
-docs/         Additional documentation
