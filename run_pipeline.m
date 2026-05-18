@@ -8,3 +8,4 @@ run('scripts/05_spectral_clustering.m')
 run('scripts/06_cluster_validation.m')
 run('scripts/07_biological_analysis.m')
 run('scripts/08_protein_modules.m')
+run('scripts/09_visualizations.m');
